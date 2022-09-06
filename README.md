@@ -1,5 +1,5 @@
 # Wildbeast
-Projeto desenvolvido no curso de CSS Grid na Origamid
+Project developed in the CSS Grid course at Origamid
 
 <br>
 <h2>📷 Demonstration</h2>
@@ -8,8 +8,6 @@ Projeto desenvolvido no curso de CSS Grid na Origamid
      <img src="https://user-images.githubusercontent.com/112007806/188524937-01a66175-30f3-458c-852c-e98f70497ad9.png">
 </p>
 <br>
-<h2>About</h2>
-<hr>
 <br>
 <h2>🚀 Technologies</h2>
 <hr>
