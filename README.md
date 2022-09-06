@@ -5,7 +5,7 @@ Projeto desenvolvido no curso de CSS Grid na Origamid
 <h2>📷 Demonstration</h2>
 <hr>
 <p>
-    ![Captura de tela 2022-09-05 214727](https://user-images.githubusercontent.com/112007806/188524937-01a66175-30f3-458c-852c-e98f70497ad9.png)
+     <img src="https://user-images.githubusercontent.com/112007806/188524937-01a66175-30f3-458c-852c-e98f70497ad9.png">
 </p>
 <br>
 <h2>About</h2>
