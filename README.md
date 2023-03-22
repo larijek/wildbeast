@@ -1,5 +1,5 @@
 # Wildbeast
-Project developed in the CSS Grid course at Origamid
+Website made only with CSS and HTML.
 
 <br>
 <h2>📷 Demonstration</h2>
